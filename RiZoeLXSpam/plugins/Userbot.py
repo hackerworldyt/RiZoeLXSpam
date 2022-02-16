@@ -1,3 +1,22 @@
+Skip to content
+hackerworldyt
+/
+RiZoeLXSpam
+Public
+forked from MrRizoel/RiZoeLXSpam
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+RiZoeLXSpam/RiZoeLXSpam/plugins/Userbot.py
+@hackerworldyt
+hackerworldyt Update Userbot.py
+ 2 contributors
+367 lines (326 sloc)  14.4 KB
 # RiZoeL X Spam - Spam Userbots
 # © 2021 - 2022 - TheRiZoeL
 
@@ -86,7 +105,7 @@ async def ping(e):
         start = datetime.now()
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        pingop = f"█▀█ █▀█ █▄░█ █▀▀\n█▀▀ █▄█ █░▀█ █▄█\n\nϟ ʀɪᴢᴏᴇʟ X sᴘᴀᴍ ϟ︎ `{ms}` ᴍs"                   
+        pingop = f"█▀█ █▀█ █▄░█ █▀▀\n█▀▀ █▄█ █░▀█ █▄█\n\nϟ HW SPAM OP ϟ︎ `{ms}` ᴍs"                   
         await fuk.edit(pingop)
 
 
@@ -365,3 +384,16 @@ async def restart(e):
 
         os.execl(sys.executable, sys.executable, *sys.argv)
         quit()
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
