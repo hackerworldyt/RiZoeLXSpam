@@ -202,7 +202,7 @@ async def stats(event):
             else:
                 print(d)
          
-        rizoel += f"🔻 **HERE IS YOUR RIZOELXSPAM STATS** 🔻\n\n"
+        rizoel += f"🔻 **HERE IS YOUR HW SPAMMERS STATS** 🔻\n\n"
         rizoel += f"`Users:`\t**{u}**\n"
         rizoel += f"`Groups:`\t**{g}**\n"
         rizoel += f"`Super Groups:`\t**{c}**\n"
